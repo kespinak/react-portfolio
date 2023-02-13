@@ -12,50 +12,50 @@ const data = [
         id: 1,
         quote: "It's truly amazing how you did exactly what I want with the little information I gave. You'll be my go-to developer from today. Highly recommend!",
         avatar: Avatar1,
-        name: 'Ariel Hsieh',
-        profession: 'Actress'
+        name: 'Anonymous',
+        profession: 'Software Engineer'
         },
         {
         id: 2,
         quote: "Good job, Hajia! Right on time! I really like how the project turned out, and my customers like it as well. It was fun collaborating with you.",
         avatar: Avatar2,
-        name: 'Nathan Romero',
+        name: 'Anonymous',
         profession: 'Web Developer'
         },
         {
         id: 3,
         quote: "Impressive work, buddy. Highly recommend!",
         avatar: Avatar3,
-        name: 'Tara Ryer',
+        name: 'Anonymous',
         profession: 'Graphic Designer'
         },
         {
         id: 4,
         quote: "Wow. You finished earlier than you said. Everything's modern and beautifully done to the T. Great profession!",
         avatar: Avatar4,
-        name: 'Nick Lenzini',
-        profession: 'Singer'
+        name: 'Anonymous',
+        profession: 'Backend Developer'
         },
         {
         id: 5,
         quote: "I like how the app turned out. You are incredible, Hajia.",
         avatar: Avatar5,
-        name: 'Chris Pinkel',
-        profession: 'Street Photographer'
+        name: 'Anonymous',
+        profession: 'Frontend Developer'
         },
         {
         id: 6,
         quote: "Best developer in the world!",
         avatar: Avatar6,
-        name: 'Ken McConnell',
-        profession: 'Brand Influencer'
+        name: 'Anonymous',
+        profession: 'Software Engineer'
         },
         {
         id: 7,
         quote: "Keep doing great stuff, dear! Nicely executed!",
         avatar: Avatar7,
-        name: 'Alberto Trejo',
-        profession: 'Makeup Artist'
+        name: 'Anonymous',
+        profession: 'Web Developer'
         }
     ]
 

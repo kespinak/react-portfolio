@@ -1,16 +1,18 @@
 #testimonials {
-  padding-bottom: 0;
+  padding-bottom: 180;
 }
 
 .swiper {
   height: fit-content;
-  padding-bottom: 12rem;
-  /* this paddint top is to give space for micro interaction on hover of swiper slide */
-  padding-top: 1rem;
+  padding-bottom: 30rem;
+  /* this padding top is to give space for micro interaction on hover of swiper slide */
+  padding-top: 10rem;
 }
 
 .swiper-slide {
+  /* background-color: green; */
   cursor: grab;
+  margin-bottom: 4rem;
 }
 
 .testimonial__client {
@@ -29,7 +31,10 @@
 }
 
 .swiper-pagination {
-  margin-bottom: 8rem;
+  margin-bottom: 0rem;
+  /* height: 10rem; */
+  /* background-color: green; */
+  /* margin-top: 5rem; */
 }
 
 

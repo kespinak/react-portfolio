@@ -28,7 +28,7 @@ const data = [
         desc: "My personal portfolio, KevinEspina.com, which features some of my github projects as well as my resume and technical skills. Please explore my portfolio and feel free to contact me if you have any questions and/or job inquiries. In addition, please add me on linkedin and follow me on github. I enjoy meeting new people and learning new technologies.",
         techStack: "TechStack: React, Redux, Nodejs, Express, CSS, and Vercel.",
         demo: 'http://kevinespina.com',
-        github: 'https://github.com/kespinak/Facebook-Clone',
+        github: 'https://github.com/kespinak/react-portfolio',
         viewProj: "https://www.youtube.com/",
     },
     {

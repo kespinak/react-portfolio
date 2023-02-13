@@ -1,8 +1,9 @@
 import './navbar.css'
 import Logo from '../../assets/logo.jpg'
 import data from './data'
-import {IoIosColorPalette} from 'react-icons/io'
 import React from 'react'
+import {AiOutlineHome} from 'react-icons/ai'
+// import {IoIosColorPalette} from 'react-icons/io'
 
 const Navbar = () => {
   return (
@@ -22,7 +23,8 @@ const Navbar = () => {
             )
           }
         </ul>
-        <button id='theme__icon'> <IoIosColorPalette/> </button>
+        <button id='theme__icon'> <AiOutlineHome/> </button>
+        {/* <button id='theme__icon'> <IoIosColorPalette/> </button> */}
       </div>
     </nav>
   )
