@@ -29,7 +29,7 @@ const Header = () => {
         <div className="header__socials">
           {
             data.map(item => 
-              <a href="" key={item.id} target={item.link} rel='noopener noreferrer' >{item.icon}</a>
+              <a href={item.link} key={item.id} target={item.link} rel='noopener noreferrer' >{item.icon}</a>
             )
           }
         </div>
